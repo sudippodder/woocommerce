@@ -1,0 +1,82 @@
+*** ProShop Changelog ***
+
+2019.03.04 - version 2.0.15
+ * Fix - Filter default background color.
+
+2018.12.06 - version 2.0.14
+ * Fix - Make header search magnifying glass clickable.
+
+2018.08.07 - version 2.0.13
+ * Fix - Missing secondary navigation background.
+
+2018.07.23 - version 2.0.12
+ * Fix - Fixes issue where default setting values from Storefront were not being used.
+
+2018.05.22 - version 2.0.11
+ * Fix - Hidden dropdown menus.
+
+2018.04.30 - version 2.0.10
+ * Tweak - Storefront 2.3.0 compatibility.
+ * Fix - Consistent site title styling across all pages.
+
+2018.02.15 - version 2.0.9
+ * Tweak - Compatibility with WooCommerce 3.3.
+
+2017.07.03 - version 2.0.8
+ * Fix - Invalid default body color.
+
+2017.06.12 - version 2.0.7
+ * Fix - Price badge position on small screens.
+
+2017.02.16 - version 2.0.6
+ * Tweak - Storefront 2.2.0 compatibility.
+
+2017.01.05 - version 2.0.5
+ * Fix - Style treatment of the best seller section on the homepage.
+
+2016.08.15 - version 2.0.4
+ * Tweak - Storefront 2.1 compatibility.
+ * Fix - Header cart link layout.
+
+2016.05.11 - version 2.0.3
+ * Tweak - Adopt Storefront 2.0's methods for applying default settings.
+ * Fix - Support for WordPress 4.5's custom logo feature.
+
+2016.03.18 - version 2.0.2
+ * Tweak - Storefront 2.0.0 compatibility.
+
+2016.02.23 - version 2.0.1
+ * Fix - Style.css version number discrepancy.
+
+2016.02.17 - version 2.0.0
+ * New - Underlying code structure rewritten to use a more efficient class structure.
+ * New - Full RTL support.
+ * Tweak - Improved display of header image option.
+ * Tweak - Various small styling tweaks.
+
+2016.01.25 - version 1.2.0
+ * New - Compatibility with Storefront Hamburger Menu plugin
+ * Tweak - Some general tweaks in preparation for Storefront 2.0.
+
+2015.12.06 - version 1.1.2
+ * Fix - Horizontal scroll bar on iPad.
+
+2015.12.03 - version 1.1.1
+ * Fix - Search button in the header
+ * Fix - Navigation overflow when using the Storefront Designer content frame option.
+
+2015.11.05 - version 1.1.0
+ * New - Integration with Storefront Mega Menus
+ * New - Integration with Storefront Parallax Hero 1.4.0
+
+2015.11.02 - version 1.0.3
+ * Fix - Removed incorrect styles applied to site logo and fixed positioning.
+
+2015.08.06 - version 1.0.2
+ * Fix - Compatibility with the header cart toggle in the Storefront WooCommerce Customiser extension.
+
+2015.08.05 - version 1.0.1
+ * Tweak - Theme description.
+
+2015.06.30 - version 1.0.0
+ * Initial release.

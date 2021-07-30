@@ -1,0 +1,14 @@
+2021-05-27T14:12:12+00:00 CRITICAL Uncaught ReflectionException: Method Automattic\WooCommerce\Proxies\LegacyProxy::init() does not exist in /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/AbstractServiceProvider.php:100
+Stack trace:
+#0 /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/AbstractServiceProvider.php(100): ReflectionMethod->__construct()
+#1 /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/AbstractServiceProvider.php(40): Automattic\WooCommerce\Internal\DependencyManagement\AbstractServiceProvider->reflect_class_or_callable()
+#2 /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/AbstractServiceProvider.php(145): Automattic\WooCommerce\Internal\DependencyManagement\AbstractServiceProvider->add_with_auto_arguments()
+#3 /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ServiceProviders/ProxiesServiceProvider.php(32): Automattic\Woo in /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/AbstractServiceProvider.php on line 100
+
+2021-05-27T14:12:12+00:00 CRITICAL Uncaught ReflectionException: Method Automattic\WooCommerce\Proxies\LegacyProxy::init() does not exist in /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/AbstractServiceProvider.php:100
+Stack trace:
+#0 /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/AbstractServiceProvider.php(100): ReflectionMethod->__construct()
+#1 /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/AbstractServiceProvider.php(40): Automattic\WooCommerce\Internal\DependencyManagement\AbstractServiceProvider->reflect_class_or_callable()
+#2 /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/AbstractServiceProvider.php(145): Automattic\WooCommerce\Internal\DependencyManagement\AbstractServiceProvider->add_with_auto_arguments()
+#3 /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ServiceProviders/ProxiesServiceProvider.php(32): Automattic\Woo in /var/www/html/woocommerce/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/AbstractServiceProvider.php on line 100
+

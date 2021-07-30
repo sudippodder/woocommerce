@@ -1,0 +1,733 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2019-08-09 16:09+0000\n"
+"PO-Revision-Date: 2019-08-10 20:41-0700\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "Partial Payments"
+msgstr "مدفوعات جزئية"
+
+msgid "Partial Payment"
+msgstr "وديعة جزئية"
+
+msgctxt "custom post type setting"
+msgid "Edit Partial Payment"
+msgstr "تعديل الدفع الجزئى"
+
+msgctxt "custom post type setting"
+msgid "Parent Order"
+msgstr "الطلب الأصلى"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Documentation"
+msgstr "التوثيق"
+
+msgid "Support"
+msgstr "الدعم"
+
+msgctxt "Order status"
+msgid "Partially Paid"
+msgstr "تسديد جزئي"
+
+msgid "Partially Paid"
+msgstr "تسديد جزئي"
+
+msgid "Partially Paid <span class=\"count\">(%s)</span>"
+msgid_plural "Partially Paid <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] " تسديد جزئى<span class=\"count\">(%s)</span> "
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "تسديد جزئى <span class=\"count\">(%s)</span>"
+
+msgid "per person"
+msgstr "للشخص الواحد"
+
+msgid "per booking"
+msgstr "للطلب الواحد"
+
+msgid "per item"
+msgstr "للمادة الواحدة"
+
+msgid "Pay Deposit"
+msgstr "دفع مبلغ الوديعة"
+
+msgid "Full Amount"
+msgstr "المبلغ الكامل"
+
+msgid "Deposit Option"
+msgstr "خيار الإيداع"
+
+msgid "Deposit Amount"
+msgstr "قيمة الوديعة"
+
+msgid "Remaining Amount"
+msgstr "المبلغ المتبقى"
+
+msgid "Deposit"
+msgstr "وديعة"
+
+msgid "Remaining"
+msgstr "الباقي"
+
+msgid "To Pay"
+msgstr "المبلغ المدفوع"
+
+msgid "Second Payment"
+msgstr "الدفعة الثانية"
+
+msgid "Second Payment Amount"
+msgstr "مبلغ الدفعة الثانية"
+
+msgid "Deposit Previously Paid"
+msgstr "الإيداع المدفوع مسبقًا"
+
+msgid "Payment Status"
+msgstr "حالة الدفع"
+
+msgid "Deposit Pending Payment"
+msgstr "الوديعة قيد الدفع"
+
+msgid "Deposit Paid"
+msgstr "الوديعة مدفوعة"
+
+msgid "Order Fully Paid"
+msgstr "الطلب مدفوع تماما"
+
+msgid "Partial Payment for order %s"
+msgstr "الدفع الجزئى للطلب %s"
+
+msgid "Partial Payment amount:"
+msgstr "مبلغ الدفع الجزئى"
+
+msgid "Cart items"
+msgstr "بنود عربة التسوق"
+
+msgid "Fees"
+msgstr "الرسوم"
+
+msgid "Tax"
+msgstr "الضرائب"
+
+msgid "Shipping"
+msgstr "الشحن"
+
+msgid "Shipping Tax"
+msgstr "ضريبة الشحن"
+
+msgid "<strong>%s order</strong> partially paid"
+msgid_plural "<strong>%s orders</strong> partially paid"
+msgstr[0] ""
+msgstr[1] "<strong>%s طلب </strong> مسدد جزئيا"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "<strong>%s طلبات </strong>مسددة جزئيا"
+
+msgid "Are you sure? this action is irreversible."
+msgstr "هل أنت متأكد؟ لا يمكن إلغاء هذا الفعل."
+
+msgid "Recalculate Deposit"
+msgstr "إعادة حساب الإيداع"
+
+msgid "Second Payment reminder manually sent to customer."
+msgstr "تذكير بالدفعة الثانية مُرسلة يدويًا إلى العملاء."
+
+msgid "Email Second Payment Reminder"
+msgstr "بريد إلكتروني للتذكير بالدفعة الثانية"
+
+msgid "Note: Deposit amount is affected by settings for fees, taxes & shipping handling"
+msgstr "ملحوظة: قيمة الدفعة قد تتأثر بإعدادات الرسوم و الضرائب و تكاليف الشحن"
+
+msgid "This is a partial payment for order %s"
+msgstr "هذا هو الدفع الجزئى للطلب %s"
+
+msgid "View"
+msgstr "مشاهدة"
+
+msgid "Checkout Mode enabled"
+msgstr "تم تمكين وضع الدفع النهائي"
+
+msgid "Go to plugin settings"
+msgstr "الذهاب إلى إعدادات الملحقات"
+
+msgid "Enable deposit"
+msgstr "تفعيل الوديعة"
+
+msgid "Enable this to require a deposit for this item."
+msgstr "قم بتفعيل هذا للمطالبة بوديعة لهذه المادة."
+
+msgid "Force deposit"
+msgstr "الإيداع الجبري"
+
+msgid "If you enable this, the customer will not be allowed to make a full payment."
+msgstr "إذا قمت بتفعيل هذا، لن يتمكن الزبون من الدفع الكامل."
+
+msgid "Specify the type of deposit:"
+msgstr "عين نوع الوديعة:"
+
+msgid "Fixed value"
+msgstr "قيمة ثابتة"
+
+msgid "Percentage of price"
+msgstr "النسبة المئوية للسعر"
+
+msgid "Deposit amount"
+msgstr "قيمة الوديعة"
+
+msgid "This is the minimum deposited amount.<br/>Note: Tax will be added to the deposit amount you specify here."
+msgstr "هذا هو الحد الأدنى للمبلغ المراد إيداعه. .<br/> ملاحظة: ستضاف رسوم الضرائب إلى مبلغ الوديعة الذي تعينه هنا."
+
+msgid "Multiply by persons"
+msgstr "مضروب في عدد الأشخاص"
+
+msgid "Enable this to multiply the deposit by person count. (Only works when Fixed Value is active)"
+msgstr "قم بتفعيل هذا لمضاعفة الوديعة حسب عدد الأشخاص. (لا تشتغل هذه الوظيفة إلا إذا كانت القيمة الثابتة نشطة)"
+
+msgid "Second Payment Reminder"
+msgstr "تذكير الدفعة الثانية"
+
+msgid "If you would like to send out second payment reminder emails to all orders containing this product on a specific date in the future, set a date below."
+msgstr "إذا كنت ترغب في إرسال تذكيرات بجميع المدفوعات الجزئيةلجميع الطلبات التى تحتوى على هذا المنتج  في تاريخ محدد في المستقبل ، اضبط التاريخ أدناه."
+
+msgid "Next Reminder Date :"
+msgstr "تاريخ التذكير التالي:"
+
+msgid "Deposit Options"
+msgstr "خصائص الوديعة"
+
+msgid "Enable Deposit ?"
+msgstr "تفعيل الوديعة ؟"
+
+msgid "— No Change —"
+msgstr "-- بدون تغيير--"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "Force Deposit?"
+msgstr "الإيداع الجبري ؟"
+
+msgid "Multiply By Persons?"
+msgstr "مضروب في عدد الأشخاص؟"
+
+msgid "Deposit Type?"
+msgstr "خيار الإيداع؟"
+
+msgid "Change to:"
+msgstr "تغيير إلى:"
+
+msgid "Increase by (fixed amount or %):"
+msgstr "زيادة بـ (مبلغ ثابت أو نسبة مئوية)"
+
+msgid "Decrease by (fixed amount or %):"
+msgstr "نقصان بـ (مبلغ ثابت أو نسبة مئوية)"
+
+msgid "Enter Deposit Amount (%s)"
+msgstr "ادخل مبلغ الوديعة (%s)"
+
+msgid "Deposit settings"
+msgstr "إعدادات الإيداع"
+
+msgid "Override product deposits options"
+msgstr "إلغاء خيارات ودائع المنتجات"
+
+msgid "Enable to override deposit settings of parent"
+msgstr "تمكين إلغاء إعدادات الإيداع للشركة الأم"
+
+msgid "Deposits"
+msgstr "ودائع"
+
+msgid "Date"
+msgstr "التاريخ"
+
+msgid "Export CSV"
+msgstr "تصدير CSV"
+
+msgid "%s deposits in total"
+msgstr "%s إجمالي الودائع"
+
+msgid "%s remaining in total"
+msgstr "%s  إجمالي الباقي"
+
+msgid "%s partially-paid in total"
+msgstr "%s إجمالي المبالغ المدفوعة جزئيا"
+
+msgid "Number of deposits"
+msgstr "عدد الودائع"
+
+msgid "Paid deposits"
+msgstr "الودائع المدفوعة"
+
+msgid "Order Remaining in Total"
+msgstr "إجمالي الطلبيات المتبقية"
+
+msgid "WooCommerce Deposits"
+msgstr "إيداعات WooCommerce"
+
+msgid "Please <a href=\"%s\"> enter your purchase code </a> to receive automatic updates"
+msgstr "يُرجى <a href=\"%s\"> إدخال كود الشراء </a> لتلقي تحديثات تلقائية"
+
+msgid "Updated successfully"
+msgstr "تم التحديث بنجاح"
+
+msgid "Checkout Mode Enabled"
+msgstr "تم تمكين وضع الدفع النهائي"
+
+msgid "Debugging Mode Enabled"
+msgstr "تم تمكين وضع المعالجة"
+
+msgid "Woocommerce Deposits Settings"
+msgstr "إعدادات إيداعات Woocommerce"
+
+msgid "General Settings"
+msgstr "إعدادات عامة"
+
+msgid "Display & Text"
+msgstr "عرض & نص"
+
+msgid "Checkout Mode"
+msgstr "وضع الدفع النهائي"
+
+msgid "Second Payment & Reminders"
+msgstr "الدفعة الثانية & التذكيرات"
+
+msgid "Gateways"
+msgstr "بوابات"
+
+msgid "Automatic Updates"
+msgstr "تحديثات تلقائية"
+
+msgid "Site-wide Settings"
+msgstr "إعدادات للموقع ككل"
+
+msgid "Disable Deposits"
+msgstr "تعطيل الودائع"
+
+msgid "Check this to disable all deposit functionality with one click."
+msgstr "قم بالتأشير على هذه لتعطيل كل وظائف الودائع بنقرة واحدة."
+
+msgid "Default Selection"
+msgstr "تحديد افتراضي"
+
+msgid "Select the default deposit option."
+msgstr "حدد خيار الودائع الافتراضية"
+
+msgid "Display Taxes"
+msgstr "عرض رسوم الضرائب"
+
+msgid "Check this to count taxes as part of deposits for purposes of display to the customer. (in product page & cart)"
+msgstr "إطلع على ذلك لحساب الضرائب كجزء من الإيداعات لأغراض العرض للعميل. (في صفحة المنتج & عربة الشراء)"
+
+msgid "Display Deposit-breakdown Tooltip in cart"
+msgstr "عرض تفاصيل الإيداع في عربة التسوق"
+
+msgid "Check to display tooltip in cart totals detailing deposit breakdown)"
+msgstr "إطلع على مؤشر عرض مجموع ما في عربة التسوق التي تظهر تفاصيل الإيداع)"
+
+msgid "Fees Collection Method"
+msgstr "طريقة تحصيل الرسوم"
+
+msgid "Choose how to handle fees."
+msgstr "كيفية التعامل مع مصاريف الرسوم"
+
+msgid "with deposit"
+msgstr "مع الإيداع"
+
+msgid "Split according to deposit amount"
+msgstr "التقسيم وفقًا لمبلغ الإيداع"
+
+msgid "with second payment"
+msgstr "مع الدفعة الثانية"
+
+msgid "Taxes Collection Method"
+msgstr "طريقة تحصيل الضرائب"
+
+msgid "Choose how to handle taxes."
+msgstr "إختر كيف تريد التعامل مع الضرائب"
+
+msgid "Shipping Handling Method"
+msgstr "طريقة تحصيل مصاريف الشحن"
+
+msgid "Choose how to handle shipping."
+msgstr "كيفية التعامل مع مصاريف الشحن"
+
+msgid "Shipping Taxes Handling Method"
+msgstr "طريقة التعامل مع ضرائب الشحن"
+
+msgid "Choose how to handle shipping taxes."
+msgstr "اختر كيفية التعامل مع ضرائب الشحن."
+
+msgid "Discount Coupons Handling"
+msgstr "طريقة معاملة كوبونات الخصم"
+
+msgid "Choose how to handle coupon discounts"
+msgstr "اختر كيفية التعامل مع كوبونات  الخصم"
+
+msgid "Deduct from deposit"
+msgstr "خصم من الوديعة"
+
+msgid "Deduct from second payment"
+msgstr "خصم من الدفعة الثانية"
+
+msgid "Reduce Stocks On"
+msgstr "تخفيض المخزون"
+
+msgid "Choose when to reduce stocks."
+msgstr "اختر متى يتم تخفيض المخزون."
+
+msgid "Deposit Payment"
+msgstr "دفع الوديعة"
+
+msgid "Full Payment"
+msgstr "دفع كامل"
+
+msgid "Make partially paid orders editable"
+msgstr "اجعل الطلبات المدفوع جزء من ثمنها قابلة للتعديل"
+
+msgid "Check to make orders editable while in \"partially paid\" status"
+msgstr "إطلع لجعل الطلبات قابلة للتعديل بينما لا تزال في حالة \"مدفوع جزئيًا\""
+
+msgid "Show \"has deposit\" column in admin order list table"
+msgstr "إظهار عمود \"لديه إيداع\" في جدول قائمة طلبات المدير"
+
+msgid "Check to show a column in admin order list indicating if order has deposit"
+msgstr "إطلع لإظهار عمود في قائمة طلبات المدير التي توضح إذا كان للطلب إيداع"
+
+msgid "Disable deposit for selected user roles"
+msgstr "تعطيل الإيداع لأدوار المستخدم المحددة"
+
+msgid "Restrict deposits for logged-in users only"
+msgstr "تقييد الإيداعات للمستخدمين المسجلين فقط"
+
+msgid "Check this to disable all deposit functionality for guests"
+msgstr "حدد هذا الخيار لتعطيل كافة وظائف الإيداع للضيوف"
+
+msgid "Text to replace "
+msgstr "الكتابة النصية للاستبدال "
+
+msgid "Buttons"
+msgstr "أزرار"
+
+msgid "No HTML allowed. Text will be translated to the user if a translation is available.<br/>Please note that any overflow will be hidden, since button width is theme-dependent."
+msgstr "HTML غير مسموح به. سيتم ترجمة النص للمستخدم إذا كانت هناك ترجمة متوفرة. <br/> الرجاء الملاحظة أنه أي زيادة سيتم إخفاؤها حيث أن الزر يكون مرتبطا بالثيم."
+
+msgid "Use Basic Deposit Buttons"
+msgstr "استخدم ازرار الوديعة البسيطة"
+
+msgid "Use basic radio buttons for deposits, Check this if you are facing issues with deposits slider buttons in product page, "
+msgstr "استخدم ازرار مستديرة للوديعة (قم بتفعيل هذا الخيار إن واجهتك مشاكل مع الأزرار المنزلقة فى صفحة المنتج) "
+
+msgid "Strings"
+msgstr "سلاسل"
+
+msgid "No HTML allowed. Text will be translated to the user if a translation is available."
+msgstr "لا يُسمح بـHTML. سيتم ترجمة النص إلى المستخدم إذا توافرت خدمة الترجمة."
+
+msgid "Deposit Button Text"
+msgstr "النص الخاص بزر الوديعة"
+
+msgid "Text displayed in the 'Pay Deposit' button."
+msgstr "النص الظاهر على زر \"دفع الوديعة\""
+
+msgid "Full Amount Button Text"
+msgstr "النص الخاص بزر المبلغ الكامل"
+
+msgid "Text displayed in the 'Full Amount' button."
+msgstr "النص الظاهر على زر \"المبلغ الكامل\""
+
+msgid "Messages"
+msgstr "رسائل"
+
+msgid "Please check the documentation for allowed HTML tags."
+msgstr "الرجاء مراجعة الوثائق للتعرف على علامات HTML المسموح بها."
+
+msgid "Deposit Message"
+msgstr "الرسالة الخاصة بالوديعة"
+
+msgid "Message to show when 'Pay Deposit' is selected on the product's page."
+msgstr "الرسالة التي سيتم عرضها عند تحديد \"دفع وديعة\" على صفحة المنتوج."
+
+msgid "Full Amount Message"
+msgstr "الرسالة الخاصة بالمبلغ الكامل"
+
+msgid "Message to show when 'Full Amount' is selected on the product's page."
+msgstr "الرسالة التي سيتم عرضها عند تحديد \"المبلغ الكامل\" على صفحة المنتوج."
+
+msgid "Deposit on Checkout Mode"
+msgstr "وضع دفع الوديعة النهائى"
+
+msgid "changes the way deposits work to be based on total amount at checkout button"
+msgstr "يقوم بتغيير طريقة عمل النظام لتعمل على القيمة النهائية للطلب عند لحظة الدفع"
+
+msgid "Enable checkout mode"
+msgstr "تفعيل وضع الدفع النهائى"
+
+msgid "Check this to enable checkout mode, which makes deposits calculate based on total amount during checkout instead of per product"
+msgstr "اختر هذا لتفعيل وضع الدفع النهائى, وهو يقوم بحساب الوديعة بناء على قيمة الطلب الكليّة أثناء انهاء الدفع بدلا من قيم المنتجات"
+
+msgid "If you check this, the customer will not be allowed to make a full payment during checkout"
+msgstr "إذا إطلعت على ذلك، لن يُسمح للعميل بدفع كامل المبلغ خلال الدفع النهائي"
+
+msgid "Deposit amount "
+msgstr "قيمة الوديعة "
+
+msgid "Amount of deposit ( should not be more than 99 for percentage or more than order total for fixed"
+msgstr "قيمة الدفعة الأولى (يجب ألا تكون أكثر من 99 بالمائة أو أكثر من قيمة الطلب الكلية للقيمة الثابتة)"
+
+msgid "Amount Type"
+msgstr "نوع القيمة"
+
+msgid "Choose amount type"
+msgstr "إختر نوع القيمة"
+
+msgid "Fixed"
+msgstr "ثابت"
+
+msgid "Percentage"
+msgstr "نسبة مئوية"
+
+msgid "Second Payment Settings"
+msgstr "إعدادات الدفعة الثانية"
+
+msgid "Enable Second Payment"
+msgstr "تفعيل الدفع الثاني"
+
+msgid "Uncheck this to prevent the customer from making the second payment. (You'll have to manually mark the order as completed)"
+msgstr "أزل هذة الإشارة لتمنع العميل من القيام بدفع القيمة الثانية. (ستضطر ان تقوم بتعيين الطلب يدويا كمنتهى فى هذا الحالة)"
+
+msgid "Second Payment Reminder controls  (You can always send a reminder manually from order actions ) "
+msgstr "ضوابط التذكير بالدفعة الثانية (يمكنك دائمًا إرسال تذكير يدوي من أنشطة الطلب) "
+
+msgid "Enable Second Payment Reminder after \"X\" Days"
+msgstr "تمكين التذكير بالدفعة الثانية بعد \"X\" يوم"
+
+msgid "Check this to enable sending second payment reminder email automatically after X number of days of deposit payment."
+msgstr "إطلع على هذا لتمكين إرسال بريد تذكيري بالدفعة الثانية تلقائيًا بعد X عدد من الأيام لدفع الإيداع."
+
+msgid "Days before Second Payment is due"
+msgstr "عدد الأيام قبل إستحقاف الدفعة الثانية"
+
+msgid "Number of days before second payment is due ( leave field empty for unlimited days )"
+msgstr "عدد الإيام قبل موعد إستحقاق دفع الدفعة الثانية ( إترك الحقل خاليا لعدد لإختيار غير محدود)"
+
+msgid "Days before Second Payment reminder "
+msgstr "عدد الأيام قبل إرسال تذكير الدفع "
+
+msgid "Duration between partial payment and second payment reminder (in days)"
+msgstr "عدد الأيام بين الدفعة الأولى و تذكير الدفعة الثانية"
+
+msgid "Disallowed Gateways"
+msgstr "بوابات مرفوضة"
+
+msgid "Disallow the following gateways when there is a deposit in the cart."
+msgstr "رفض البوابات التالية عندما تكون هناك وديعة في عربة المشتريات."
+
+msgid "Disallowed For Deposits"
+msgstr "مرفوضة بالنسبة للودائع"
+
+msgid "Disallowed For Second Payment"
+msgstr "ممنوع للدفعة الثانية"
+
+msgid "Purchase code"
+msgstr "كود الشراء"
+
+msgid "Insert your <a  target=\"_blank\" href=\"%s\"> purchase code </a> to receive automatic updates."
+msgstr "أدخل <a  target=\"_blank\" href=\"%s\"> كود الشراء </a> لتلقي تحديثات تلقائية."
+
+msgid "Verify purchase code"
+msgstr "تفعيل كود الشراء"
+
+msgid "Advanced"
+msgstr "المتقدمة"
+
+msgid "If you would like to send out all partial payment reminders on a specific date in the future, set a date below."
+msgstr "إذا كنت ترغب في إرسال تذكيرات بجميع المدفوعات الجزئية في تاريخ محدد في المستقبل، اضبط التاريخ أدناه."
+
+msgid "Next Custom Reminder Date :"
+msgstr "تاريخ التذكير المخصص التالي:"
+
+msgid "Deposit Buttons Primary Colour"
+msgstr "اللون الرئيسي لأزار الإيداع"
+
+msgid "Deposit Buttons Secondary Colour"
+msgstr "اللون الثانوي لأزار الإيداع"
+
+msgid "Deposit Buttons Highlight Colour"
+msgstr "اللون التضليلي لأزار الإيداع"
+
+msgid "Thank You. Purchase code verified successfully."
+msgstr "شكرًا لك. تم التحقق من كود الشراء بنجاح."
+
+msgid "Invalid Purchase code"
+msgstr "كود الشراء غير صحيح"
+
+msgid "Error verifying purchase code, please try again later. If issue persist, please submit a  ticket to our <a target=\"_blank\" href=\"%s\"> support platform. </a> "
+msgstr "حدث خطأ أثناء التحقق من كود الشراء، يُرجى إعادة المحاولة في وقتٍ لاحق. إذا استمرت المشكلة في الحدوث، يُرجى تقديم تذكرة إلى منصة الدعم <a target=\"_blank\" href=\"%s\">. </a> "
+
+msgid "Partial Payment Received"
+msgstr "تم استقبال الوديعة"
+
+msgid "This is an order notification sent to the customer after partial-payment, containing order details and a link to pay the remaining balance."
+msgstr "هذا الإشعار يرسل إلى العميل بعد دفع الوديعة, ويحتوى على بيانات الطلب و صلة لدفع المبلغ المتبقى."
+
+msgid "Thank you for your order"
+msgstr "شكرا على طلبك"
+
+msgid "Your {site_title} order receipt from {order_date}"
+msgstr "فاتورة طلبك من {site_title} بتاريخ {order_date}"
+
+msgid "This is a reminder of  partially-paid order  sent to the customer after specific period of time assigned in settings, containing order details and a link to pay the remaining balance."
+msgstr "هذا الإشعار يرسل إلى العميل بعد دفع الوديعة وبعد مرور فترة من الوقت تحدد فى الإعدادات, ويحتوى على بيانات الطلب و صلة لدفع المبلغ المتبقى."
+
+msgid "Your {site_title} order second payment reminder {order_date}"
+msgstr "باقى حساب طلبك من {site_title} بتاريخ {order_date} لم يتم دفعه"
+
+msgid "Full payment emails are sent when an order is fully paid."
+msgstr "يتم إرسال رسائل الكترونية للدفع الكامل عندما يتم تسديد طلبية بالكامل."
+
+msgid "Order fully paid"
+msgstr "تم تسديد مبلغ الطلبية بالكامل"
+
+msgid "[{site_title}] Order fully paid ({order_number}) - {order_date}"
+msgstr "{site_title}] تم تسديد مبلغ الطلبية بالكامل ({order_number}){order_date}-"
+
+msgid "Enable/Disable"
+msgstr "تفعيل/تعطيل"
+
+msgid "Enable this email notification"
+msgstr "تفعيل الإخطار بالبريد الالكتروني"
+
+msgid "Recipient(s)"
+msgstr "المرسل إليه/إليهم"
+
+msgid "Enter recipients (comma separated) for this email. Defaults to <code>%s</code>."
+msgstr "ادخل عناوين المرسل إليهم (مع وضع فواصل بينها) لهذا البريد الالكتروني. الافتراضي إلى<code>%s</code>."
+
+msgid "Subject"
+msgstr "الموضوع"
+
+msgid "This controls the email subject line. Leave blank to use the default subject: <code>%s</code>."
+msgstr "يتحكم هذا في موضوع الرسالة الالكترونية. اترك الحقل فارغا لاستعمال الموضوع الافتراضي: <code>%s</code>"
+
+msgid "Email Heading"
+msgstr "العنوان الرئيسي للبريد الالكتروني"
+
+msgid "This controls the main heading contained within the email notification. Leave blank to use the default heading: <code>%s</code>."
+msgstr "يتحكم هذا في العنوان الرئيسي الموجود ضمن الإشعار. اترك الحقل فارغا لاستعمال العنوان الافتراضي: <code>%s</code>."
+
+msgid "Email type"
+msgstr "نوع البريد الالكتروني"
+
+msgid "Choose which format of email to send."
+msgstr "اختر صيغة البريد الالكتروني الذي تريد إرساله."
+
+msgid "Plain text"
+msgstr "نص بسيط"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Multipart"
+msgstr "رسالة موجهة لأطراف متعددة"
+
+msgid "Partial payment emails are sent when an order is partially paid."
+msgstr "إخطارات الوديعة الجزئية تُرسل عند دفع طلب جزئيّا."
+
+msgid "Order partially paid"
+msgstr "الطلب مدفوع جزئيّا"
+
+msgid "[{site_title}] Order partially paid ({order_number}) - {order_date}"
+msgstr "[{site_title}] تم الدفع جزئيّا ({order_number}) - {order_date}"
+
+msgid "An order from %s has been paid in full. Their order is as follows:"
+msgstr "طلب من %s تم دفعه بالكامل. الطلب كما يلى:"
+
+msgid "You have received a partially-paid order from %s. Their order is as follows:"
+msgstr "طلب من %s تم دفعه جزئيّا. الطلب كما يلى:"
+
+msgid "Your order has been received and is now being processed. Your order details are shown below for your reference:"
+msgstr "طلبك تم استلامه ويتم معالجته. محتوى طلبك سيظهر بالاسفل كمرجع:"
+
+msgid "To pay the remaining balance, please visit this link: %s"
+msgstr "لدفع المبلغ المتبقى, برجاء زيارة هذه الوصلة: %s"
+
+msgid "pay"
+msgstr "دفع"
+
+msgid "Kindly be reminded that your order's second payment is still pending payment"
+msgstr "برجاء العلم أن الدفعة الثانية من طلبك لم يتم دفعها"
+
+msgid "Partial Payments Summary"
+msgstr "ملخص المدفوعات الجزئية"
+
+msgid "Payment"
+msgstr "دفعة"
+
+msgid "Payment ID"
+msgstr "معرف الدفعة"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "Amount"
+msgstr "المبلغ"
+
+msgid "Below is a summary of original order"
+msgstr "أدناه هو ملخص الطلب الأصلي"
+
+msgid "Product"
+msgstr "منتوج"
+
+msgid "Total"
+msgstr "الإجمالى"
+
+msgid "Partial payments summary"
+msgstr "ملخص المدفوعات الجزئية"
+
+msgid "Has Deposit"
+msgstr "يحتوى على وديعة"
+
+msgid "Mark partially paid"
+msgstr "وضع علامة بالتسديد الجزئي"
+
+msgid "Order status changed by bulk edit:"
+msgstr "تم تغيير حالة الطلب بواسطة التعديل الكلي:"
+
+msgid "No payment schedule found."
+msgstr "لم يتم العثور على جدول الدفع."
+
+msgid "Payment method"
+msgstr "طريقة الدفع"
+
+msgid "Actions"
+msgstr "أفعال"
+
+msgid "Partial Payment Invoice"
+msgstr "فاتورة الدفع الجزئي"
+
+msgid "PDF Invoice"
+msgstr "فاتورة PDF"
+
+msgid "Balance Due"
+msgstr "الرصيد المستحق"
+
+msgid "Order number: %s"
+msgstr "رقم الطلب: %s"
+
+msgid "Order date: %s"
+msgstr "تاريخ الطلب: %s"

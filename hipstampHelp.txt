@@ -1,0 +1,12 @@
+1 . Import Fill data from hipstamp site > 
+insertFullDataFromHipstamp.php > insert_script.php > insertWoocommerce.php
+2 . Delete Duplicate Sku products > delete_duplicate_sku_product.php
+
+3 . Sync Daily Data : 
+insert_data_from_previous_day.php >insert_previous_day.php
+4 . Store Product ID into text.txt file for check.
+inserUpdateFromHipStamp.php > test_script.php > insert.php
+5 . to Update the single product, check : singleProduct.php?sku= >
+http://antoniosphilatelics.com/cronfiles/singleProduct.php?sku=11327876
+
+

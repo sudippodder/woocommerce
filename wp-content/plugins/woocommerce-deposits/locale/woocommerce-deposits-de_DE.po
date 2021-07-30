@@ -1,0 +1,725 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2019-08-09 16:09+0000\n"
+"PO-Revision-Date: 2019-08-15 01:31-0700\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "Partial Payments"
+msgstr "Teilzahlungen"
+
+msgid "Partial Payment"
+msgstr "Teilzahlung"
+
+msgctxt "custom post type setting"
+msgid "Edit Partial Payment"
+msgstr "Teilzahlung bearbeiten"
+
+msgctxt "custom post type setting"
+msgid "Parent Order"
+msgstr "Übergeordneter Auftrag"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "Support"
+msgstr "Hilfe"
+
+msgctxt "Order status"
+msgid "Partially Paid"
+msgstr "Teilweise bezahlt"
+
+msgid "Partially Paid"
+msgstr "Teilweise bezahlt"
+
+msgid "Partially Paid <span class=\"count\">(%s)</span>"
+msgid_plural "Partially Paid <span class=\"count\">(%s)</span>"
+msgstr[0] "Teilweise bezahlt <span class=\"count\">(%s)</span>"
+msgstr[1] "Teilweise bezahlt <span class=\"count\">(%s)</span>"
+
+msgid "per person"
+msgstr "pro Person"
+
+msgid "per booking"
+msgstr "pro Buchung"
+
+msgid "per item"
+msgstr "pro Artikel"
+
+msgid "Pay Deposit"
+msgstr "Anzahlung bezahlen"
+
+msgid "Full Amount"
+msgstr "Gesamtbetrag"
+
+msgid "Deposit Option"
+msgstr "Anzahlungsoption"
+
+msgid "Deposit Amount"
+msgstr "Anzahlungsbetrag"
+
+msgid "Remaining Amount"
+msgstr "Verbleibender Betrag"
+
+msgid "Deposit"
+msgstr "Einzahlung"
+
+msgid "Remaining"
+msgstr "Verbleibend"
+
+msgid "To Pay"
+msgstr "Zu zahlen"
+
+msgid "Second Payment"
+msgstr "Zweite Zahlung"
+
+msgid "Second Payment Amount"
+msgstr "Betrag der zweiten Zahlung"
+
+msgid "Deposit Previously Paid"
+msgstr "Zuvor geleistete Anzahlung"
+
+msgid "Payment Status"
+msgstr "Zahlungstatus"
+
+msgid "Deposit Pending Payment"
+msgstr "Anzahlung ausstehend"
+
+msgid "Deposit Paid"
+msgstr "Anzahlung geleistet"
+
+msgid "Order Fully Paid"
+msgstr "Bestellung vollständig bezahlt"
+
+msgid "Partial Payment for order %s"
+msgstr "Teilzahlung zu Auftrag %s"
+
+msgid "Partial Payment amount:"
+msgstr "Teilzahlungsbetrag:"
+
+msgid "Cart items"
+msgstr "Warenkorbinhalte"
+
+msgid "Fees"
+msgstr "Gebühren"
+
+msgid "Tax"
+msgstr "Steuern"
+
+msgid "Shipping"
+msgstr "Versandkosten"
+
+msgid "Shipping Tax"
+msgstr "Versandsteuer"
+
+msgid "<strong>%s order</strong> partially paid"
+msgid_plural "<strong>%s orders</strong> partially paid"
+msgstr[0] "<strong>%s Auftrag </strong> teilweise bezahlt"
+msgstr[1] "<strong>%s Aufträge</strong> teilweise bezahlt"
+
+msgid "Are you sure? this action is irreversible."
+msgstr "Sind Sie sicher? Diese Aktion ist nicht mehr rückgängig zu machen."
+
+msgid "Recalculate Deposit"
+msgstr "Anzahlung neu berechnen"
+
+msgid "Second Payment reminder manually sent to customer."
+msgstr "Erinnerung für zweite Zahlung, die manuell an den Kunden gesendet wird."
+
+msgid "Email Second Payment Reminder"
+msgstr "Erinnerung für zweite Zahlung per E-Mail versenden"
+
+msgid "Note: Deposit amount is affected by settings for fees, taxes & shipping handling"
+msgstr "Anmerkung: Der Einzahlungsbetrag wird durch Einstellungen für Gebühren, Steuern und Versandkosten beeinflußt."
+
+msgid "This is a partial payment for order %s"
+msgstr "Das ist eine Teilzahlung zu Auftrag %s"
+
+msgid "View"
+msgstr "Ansehen"
+
+msgid "Checkout Mode enabled"
+msgstr "Abrechnungsmodus aktiviert"
+
+msgid "Go to plugin settings"
+msgstr "Zu den Plugin-Einstellungen gehen"
+
+msgid "Enable deposit"
+msgstr "Anzahlung aktivieren"
+
+msgid "Enable this to require a deposit for this item."
+msgstr "Dies aktivieren, um für diesen Artikel eine Anzahlung zu fordern."
+
+msgid "Force deposit"
+msgstr "Anzahlung erzwingen"
+
+msgid "If you enable this, the customer will not be allowed to make a full payment."
+msgstr "Wenn Sie dies aktivieren, ist es dem Kunden nicht erlaubt, eine vollständige Zahlung zu leisten."
+
+msgid "Specify the type of deposit:"
+msgstr "Art der Anzahlung angeben:"
+
+msgid "Fixed value"
+msgstr "Festwert"
+
+msgid "Percentage of price"
+msgstr "Prozentsatz des Preises"
+
+msgid "Deposit amount"
+msgstr "Anzahlungsbetrag"
+
+msgid "This is the minimum deposited amount.<br/>Note: Tax will be added to the deposit amount you specify here."
+msgstr "Dies ist der minimale Anzahlungsbetrag.<br/>Anmerkung: Auf den hier festgelegen Anzahlungsbetrag wird Steuer aufgeschlagen."
+
+msgid "Multiply by persons"
+msgstr "Mit Personen multiplizieren"
+
+msgid "Enable this to multiply the deposit by person count. (Only works when Fixed Value is active)"
+msgstr "Aktivieren Sie dies, um die Anzahlung mit der Personenzahl zu multiplizieren. (Funktioniert nur, wenn Festwert aktiv ist.)"
+
+msgid "Second Payment Reminder"
+msgstr "Erinnerung für zweite Zahlung"
+
+msgid "If you would like to send out second payment reminder emails to all orders containing this product on a specific date in the future, set a date below."
+msgstr "Wenn Sie Erinnerungen für zweite Zahlungen bei allen Bestellungen mit diesem Produkt zu einem bestimmten Datum in der Zukunft versenden möchten, legen Sie unten ein Datum fest."
+
+msgid "Next Reminder Date :"
+msgstr "Nächstes Erinnerungsdatum:"
+
+msgid "Deposit Options"
+msgstr "Anzahlungsoptionen"
+
+msgid "Enable Deposit ?"
+msgstr "Anzahlung aktivieren?"
+
+msgid "— No Change —"
+msgstr "— Keine Änderung —"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "Force Deposit?"
+msgstr "Anzahlung erzwingen?"
+
+msgid "Multiply By Persons?"
+msgstr "Mit Personen multiplizieren?"
+
+msgid "Deposit Type?"
+msgstr "Art der Anzahlung?"
+
+msgid "Change to:"
+msgstr "Änderung auf:"
+
+msgid "Increase by (fixed amount or %):"
+msgstr "Erhöhung um (Festbetrag oder %):"
+
+msgid "Decrease by (fixed amount or %):"
+msgstr "Herabsetzung um (Festbetrag oder %):"
+
+msgid "Enter Deposit Amount (%s)"
+msgstr "Anzahlungsbetrag eingeben (%s)"
+
+msgid "Deposit settings"
+msgstr "Anzahlungseinstellungen"
+
+msgid "Override product deposits options"
+msgstr "Produktanzahlungsoptionen aufheben"
+
+msgid "Enable to override deposit settings of parent"
+msgstr "Aktivieren Sie diese Option, um die Anzahlungseinstellungen der übergeordneten Ebene aufheben."
+
+msgid "Deposits"
+msgstr "Anzahlungen"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Export CSV"
+msgstr "CSV exportieren"
+
+msgid "%s deposits in total"
+msgstr "%s Anzahlungen insgesamt"
+
+msgid "%s remaining in total"
+msgstr "%s verbleiben insgesamt"
+
+msgid "%s partially-paid in total"
+msgstr "%s teilweise bezahlt insgesamt"
+
+msgid "Number of deposits"
+msgstr "Anzahl der Anzahlungen"
+
+msgid "Paid deposits"
+msgstr "Gezahlte Anzahlungen"
+
+msgid "Order Remaining in Total"
+msgstr "Verbleibende Bestellung insgesamt"
+
+msgid "WooCommerce Deposits"
+msgstr "WooCommerce-Anzahlungen"
+
+msgid "Please <a href=\"%s\"> enter your purchase code </a> to receive automatic updates"
+msgstr "Bitte <a href=\"%s\"> geben Sie Ihren Bestellcode ein </a>, um automatische Aktualisierungen zu erhalten."
+
+msgid "Updated successfully"
+msgstr "Erfolgreich aktualisiert"
+
+msgid "Checkout Mode Enabled"
+msgstr "Abrechnungsmodus aktiviert"
+
+msgid "Debugging Mode Enabled"
+msgstr "Fehlerbehebungsmodus aktiviert"
+
+msgid "Woocommerce Deposits Settings"
+msgstr "WooCommerce-Anzahlungseinstellungen"
+
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+msgid "Display & Text"
+msgstr "Anzeige & Text"
+
+msgid "Checkout Mode"
+msgstr "Abrechnungsmodus"
+
+msgid "Second Payment & Reminders"
+msgstr "Zweite Zahlung & Mahnungen"
+
+msgid "Gateways"
+msgstr "Zugänge"
+
+msgid "Automatic Updates"
+msgstr "Automatische Aktualisierung"
+
+msgid "Site-wide Settings"
+msgstr "Seitenweite Einstellungen"
+
+msgid "Disable Deposits"
+msgstr "Anzahlungen deaktivieren"
+
+msgid "Check this to disable all deposit functionality with one click."
+msgstr "Dies ankreuzen, um alle Anzahlungsfunktionen mit einem Klick zu deaktivieren."
+
+msgid "Default Selection"
+msgstr "Standard-Auswahl"
+
+msgid "Select the default deposit option."
+msgstr "Wählen Sie die voreingestellte Anzahlungsoption."
+
+msgid "Display Taxes"
+msgstr "Steuern anzeigen"
+
+msgid "Check this to count taxes as part of deposits for purposes of display to the customer. (in product page & cart)"
+msgstr "Kreuzen Sie dies an, um Steuern zum Zweck der Anzeige an den Benutzer (auf der Produktseite und im Warenkorb) als Teil der Anzahlung zu zählen."
+
+msgid "Display Deposit-breakdown Tooltip in cart"
+msgstr "Kurzinfo zur Aufschlüsselung der Anzahlung im Warenkorb anzeigen"
+
+msgid "Check to display tooltip in cart totals detailing deposit breakdown)"
+msgstr "Kreuzen Sie dies an, um eine Kurzinfo in den Warenkorbsummen anzuzeigen, die die Aufschlüsselung der Anzahlung detailliert darstellt.)"
+
+msgid "Fees Collection Method"
+msgstr "Gebührenerhebungsmethode"
+
+msgid "Choose how to handle fees."
+msgstr "Wählen Sie, wie die Gebühren gehandhabt werden."
+
+msgid "with deposit"
+msgstr "mit Anzahlung"
+
+msgid "Split according to deposit amount"
+msgstr "Aufteilung nach Anzahlungsbetrag"
+
+msgid "with second payment"
+msgstr "mit zweiter Zahlung"
+
+msgid "Taxes Collection Method"
+msgstr "Steuererhebungsmethode"
+
+msgid "Choose how to handle taxes."
+msgstr "Wählen Sie, wie die Steuern gehandhabt werden."
+
+msgid "Shipping Handling Method"
+msgstr "Versandabwicklungsmethode"
+
+msgid "Choose how to handle shipping."
+msgstr "Wählen Sie, wie der Versand gehandhabt wird."
+
+msgid "Shipping Taxes Handling Method"
+msgstr "Versandsteuernabwicklungsmethode"
+
+msgid "Choose how to handle shipping taxes."
+msgstr "Wählen Sie, wie die Versandsteuern gehandhabt werden."
+
+msgid "Discount Coupons Handling"
+msgstr "Vorgehensweise bei Rabattgutscheinen"
+
+msgid "Choose how to handle coupon discounts"
+msgstr "Wählen Sie, wie Rabattgutscheine gehandhabt werden sollen."
+
+msgid "Deduct from deposit"
+msgstr "Von Anzahlung abziehen"
+
+msgid "Deduct from second payment"
+msgstr "Von zweiter Zahlung abziehen"
+
+msgid "Reduce Stocks On"
+msgstr "Verringerung der Vorräte an"
+
+msgid "Choose when to reduce stocks."
+msgstr "Wählen Sie, wann Vorräte reduziert werden."
+
+msgid "Deposit Payment"
+msgstr "Anzahlung"
+
+msgid "Full Payment"
+msgstr "Vollständige Bezahlung"
+
+msgid "Make partially paid orders editable"
+msgstr "Bearbeiten von teilweise bezahlten Bestellungen ermöglichen"
+
+msgid "Check to make orders editable while in \"partially paid\" status"
+msgstr "Kreuzen Sie dies an, um Bestellungen mit Status \"teilweise bezahlt\" bearbeitbar zu machen."
+
+msgid "Show \"has deposit\" column in admin order list table"
+msgstr "Zeige Spalte \"hat Anzahlung\" in der Admin-Bestellungsliste."
+
+msgid "Check to show a column in admin order list indicating if order has deposit"
+msgstr "Kreuzen Sie dies an, um eine Spalte in der Admin-Bestellungsliste anzuzeigen, aus der hervorgeht, ob die Bestellung eine Anzahlung hat."
+
+msgid "Disable deposit for selected user roles"
+msgstr "Anzahlung für bestimmte Nutzerrollen deaktivieren"
+
+msgid "Restrict deposits for logged-in users only"
+msgstr "Anzahlung nur für eingeloggte Nutzer einschränken"
+
+msgid "Check this to disable all deposit functionality for guests"
+msgstr "Markieren Sie diese Option, um alle Anzahlungsfunktionen für Gäste zu deaktivieren."
+
+msgid "Text to replace "
+msgstr "Zu ersetzender Text "
+
+msgid "Buttons"
+msgstr "Buttons"
+
+msgid "No HTML allowed. Text will be translated to the user if a translation is available.<br/>Please note that any overflow will be hidden, since button width is theme-dependent."
+msgstr "Kein HTML erlaubt. Text wird für den Benutzer übersetzt, fals eine Übersetzung verfügbar ist.<br/>Bitte beachten, dass jeder Überfluss verschwindet, da die Button-Breite abhängig vom Theme ist."
+
+msgid "Use Basic Deposit Buttons"
+msgstr "Einfache Anzahlungsbuttons benutzen"
+
+msgid "Use basic radio buttons for deposits, Check this if you are facing issues with deposits slider buttons in product page, "
+msgstr "Einfache Optionsfelder für Anzahlungen benutzen. Markieren Sie dies, wenn Sie Probleme mit den Schiebebuttons für Anzahlungen auf der Produktseite haben. "
+
+msgid "Strings"
+msgstr "Strings"
+
+msgid "No HTML allowed. Text will be translated to the user if a translation is available."
+msgstr "Kein HTML erlaubt. Text wird für den Benutzer übersetzt, falls eine Übersetzung verfügbar ist."
+
+msgid "Deposit Button Text"
+msgstr "Text für Anzahlung-Button"
+
+msgid "Text displayed in the 'Pay Deposit' button."
+msgstr "Text, der auf dem Button \"Anzahlung leisten\" angezeigt wird."
+
+msgid "Full Amount Button Text"
+msgstr "Text für Gesamtbetrag-Button"
+
+msgid "Text displayed in the 'Full Amount' button."
+msgstr "Text, der auf dem \"Gesamtbetrag\"-Button gezeigt wird"
+
+msgid "Messages"
+msgstr "Nachrichten"
+
+msgid "Please check the documentation for allowed HTML tags."
+msgstr "Prüfen Sie bitte die Dokumentation auf erlaubte HTML-Tags."
+
+msgid "Deposit Message"
+msgstr "Einzahlungsnachricht"
+
+msgid "Message to show when 'Pay Deposit' is selected on the product's page."
+msgstr "Anzuzeigende Nachricht wenn \"Anzahlung leisten\" auf der Produktseite gewählt wird."
+
+msgid "Full Amount Message"
+msgstr "Gesamtbetrag-Nachricht"
+
+msgid "Message to show when 'Full Amount' is selected on the product's page."
+msgstr "Anzuzeigende Nachricht wenn \"Gesamtbetrag\" auf der Produkseite gewählt wird."
+
+msgid "Deposit on Checkout Mode"
+msgstr "Anzahlung beim Abrechnungsmodus"
+
+msgid "changes the way deposits work to be based on total amount at checkout button"
+msgstr "ändert die Art, wie Anzahlungen funktionieren, um auf dem Gesamtbetrag beim Abrechnungs-Button zu basieren"
+
+msgid "Enable checkout mode"
+msgstr "Abrechnungsmodus aktivieren"
+
+msgid "Check this to enable checkout mode, which makes deposits calculate based on total amount during checkout instead of per product"
+msgstr "Markieren Sie dies, um den Abrechnungsmodus zu aktivieren, durch den Anzahlungen während der Abrechnung basierend auf dem Gesamtbetrag statt pro Produkt berechnet werden."
+
+msgid "If you check this, the customer will not be allowed to make a full payment during checkout"
+msgstr "Wenn Sie dies aktivieren, ist es dem Kunden nicht erlaubt, während der Abrechnung eine vollständige Zahlung zu leisten."
+
+msgid "Deposit amount "
+msgstr "Anzahlungsbetrag "
+
+msgid "Amount of deposit ( should not be more than 99 for percentage or more than order total for fixed"
+msgstr "Anzahlungsbetrag (sollte nicht mehr als 99 Prozent oder mehr als die Bestellsumme sein für festgelegte"
+
+msgid "Amount Type"
+msgstr "Betragstyp"
+
+msgid "Choose amount type"
+msgstr "Betragstyp wählen"
+
+msgid "Fixed"
+msgstr "Festgelegt"
+
+msgid "Percentage"
+msgstr "Prozentsatz"
+
+msgid "Second Payment Settings"
+msgstr "Einstellungen für zweite Zahlung"
+
+msgid "Enable Second Payment"
+msgstr "Zweite Zahlung aktivieren"
+
+msgid "Uncheck this to prevent the customer from making the second payment. (You'll have to manually mark the order as completed)"
+msgstr "Dies abwählen, um den Kunden daran zu hindern, die zweite Zahlung vorzunehmen. (Sie müssen die Bestellung manuell als abgeschlossen markieren.)"
+
+msgid "Second Payment Reminder controls  (You can always send a reminder manually from order actions ) "
+msgstr "Steuerung der Erinnerung für zweite Zahlung (Sie können jederzeit aus den Bestellaktionen manuell eine Erinnerung senden.) "
+
+msgid "Enable Second Payment Reminder after \"X\" Days"
+msgstr "Erinnerung für zweite Zahlung nach \"X\" Tagen aktivieren"
+
+msgid "Check this to enable sending second payment reminder email automatically after X number of days of deposit payment."
+msgstr "Kreuzen Sie dies an, um das automatische Versenden einer E-Mail zur Erinnerung an die zweite Zahlung X Tage nach der Anzahlung zu aktivieren."
+
+msgid "Days before Second Payment is due"
+msgstr "Tage vor Fälligkeit der zweiten Zahlung"
+
+msgid "Number of days before second payment is due ( leave field empty for unlimited days )"
+msgstr "Anzahl der Tage vor Fälligkeit der zweiten Zahlung (Feld offen lassen bei unbegrenzten Tagen)"
+
+msgid "Days before Second Payment reminder "
+msgstr "Tage vor Erinnerung für zweite Zahlung "
+
+msgid "Duration between partial payment and second payment reminder (in days)"
+msgstr "Dauer für Erinnerung zwischen Teilzahlung und zweiter Zahlung (in Tagen)"
+
+msgid "Disallowed Gateways"
+msgstr "Nicht erlaubte Zugänge"
+
+msgid "Disallow the following gateways when there is a deposit in the cart."
+msgstr "Die folgenden Zugänge nicht erlauben, wenn eine Anzahlung im Wagen ist."
+
+msgid "Disallowed For Deposits"
+msgstr "Für Anzahlungen nicht erlaubt"
+
+msgid "Disallowed For Second Payment"
+msgstr "Für zweite Zahlungen nicht erlaubt"
+
+msgid "Purchase code"
+msgstr "Kaufcode"
+
+msgid "Insert your <a  target=\"_blank\" href=\"%s\"> purchase code </a> to receive automatic updates."
+msgstr "Bitte geben Sie Ihren <a  target=\"_blank\" href=\"%s\"> Bestellcode </a> ein, um automatische Aktualisierungen zu erhalten."
+
+msgid "Verify purchase code"
+msgstr "Verifizieren Sie den Kaufcode"
+
+msgid "Advanced"
+msgstr "Erweitert"
+
+msgid "If you would like to send out all partial payment reminders on a specific date in the future, set a date below."
+msgstr "Wenn Sie alle Teilzahlungserinnerungen zu einem bestimmten Datum in der Zukunft versenden möchten, legen Sie unten ein Datum fest."
+
+msgid "Next Custom Reminder Date :"
+msgstr "Nächstes benutzerdefiniertes Erinnerungsdatum:"
+
+msgid "Deposit Buttons Primary Colour"
+msgstr "Hauptfarbe Einzahlungs-Buttons"
+
+msgid "Deposit Buttons Secondary Colour"
+msgstr "Zweitfarbe Einzahlungs-Buttons"
+
+msgid "Deposit Buttons Highlight Colour"
+msgstr "Hervorhebungsfarbe Einzahlungs-Buttons"
+
+msgid "Thank You. Purchase code verified successfully."
+msgstr "Vielen Dank. Der Bestellcode wurde erfolgreich verifiziert."
+
+msgid "Invalid Purchase code"
+msgstr "Ungültiger Bestellcode"
+
+msgid "Error verifying purchase code, please try again later. If issue persist, please submit a  ticket to our <a target=\"_blank\" href=\"%s\"> support platform. </a> "
+msgstr "Fehler bei der Verifizierung des Bestellcodes, bitte versuchen Sie es später erneut. Wenn das Problem weiterhin besteht, senden Sie bitte ein Ticket an unsere <a target=\"_blank\" href=\"%s\"> Hilfeplattform. </a> "
+
+msgid "Partial Payment Received"
+msgstr "Teilzahlung erhalten"
+
+msgid "This is an order notification sent to the customer after partial-payment, containing order details and a link to pay the remaining balance."
+msgstr "Dies ist eine Bestellbenachrichtigung, die nach einer Teilzahlung an den Kunden gesendet wird und die Bestelldetails und einen Link zur Zahlung des Restbetrags enthält."
+
+msgid "Thank you for your order"
+msgstr "Danke für Ihre Bestellung."
+
+msgid "Your {site_title} order receipt from {order_date}"
+msgstr "Ihr Beleg zur {site_title}-Bestellung vom {order_date}"
+
+msgid "This is a reminder of  partially-paid order  sent to the customer after specific period of time assigned in settings, containing order details and a link to pay the remaining balance."
+msgstr "Dies ist eine Erinnerung der teilweise bezahlten Bestellung, die dem Kunden nach einem bestimmten Zeitraum zugesendet wird, der in den Einstellungen zugewiesen wurde. Sie enthält Bestelldtails und einen Link zur Zahlung des verbleibenden Kontostandes."
+
+msgid "Your {site_title} order second payment reminder {order_date}"
+msgstr "Erinnerung für zweite Zahlung zu Ihrer {site_title}-Bestellung {order_date}"
+
+msgid "Full payment emails are sent when an order is fully paid."
+msgstr "E-Mails über vollständige Bezahlung werden gesendet, wenn eine Bestellung komplett bezahlt ist."
+
+msgid "Order fully paid"
+msgstr "Bestellung vollständig bezahlt"
+
+msgid "[{site_title}] Order fully paid ({order_number}) - {order_date}"
+msgstr "[{site_title}] Bestellung vollständig bezahlt ({order_number}) - {order_date}"
+
+msgid "Enable/Disable"
+msgstr "Aktivieren/Deaktivieren"
+
+msgid "Enable this email notification"
+msgstr "Diese E-Mail-Benachrichtigung aktivieren"
+
+msgid "Recipient(s)"
+msgstr "Empfänger"
+
+msgid "Enter recipients (comma separated) for this email. Defaults to <code>%s</code>."
+msgstr "Empfänger (durch Kommas getrennt) für diese E-Mail eingeben. Standardmäßig an <code>%s</code>"
+
+msgid "Subject"
+msgstr "Betreff"
+
+msgid "This controls the email subject line. Leave blank to use the default subject: <code>%s</code>."
+msgstr "Hier wird die Betreffzeile der E-Mail bestimmt. Leer lassen, um den Standard-Betreff zu benutzen: <code>%s</code>"
+
+msgid "Email Heading"
+msgstr "E-Mail-Überschrift"
+
+msgid "This controls the main heading contained within the email notification. Leave blank to use the default heading: <code>%s</code>."
+msgstr "Hier wird dieHauptüberschift innerhalb der E-Mail-Benachrichtigung festgelegt. Leer lassen, um die Standard-Überschrift zu benutzen: <code>%s</code>."
+
+msgid "Email type"
+msgstr "E-Mail-Typ"
+
+msgid "Choose which format of email to send."
+msgstr "Wählen Sie das Format der zu sendenen E-Mail."
+
+msgid "Plain text"
+msgstr "Einfacher Text"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Multipart"
+msgstr "Mehrteilig"
+
+msgid "Partial payment emails are sent when an order is partially paid."
+msgstr "Teilzahlung-E-Mails werden gesendet, wenn eine Bestellung teilweise bezahlt wird."
+
+msgid "Order partially paid"
+msgstr "Bestellung teilweise bezahlt"
+
+msgid "[{site_title}] Order partially paid ({order_number}) - {order_date}"
+msgstr "[{site_title}] Bestellung teilweise bezahlt ({order_number}) - {order_date}"
+
+msgid "An order from %s has been paid in full. Their order is as follows:"
+msgstr "Eine Bestellung von %s wurde vollständig bezahlt. Die Bestellung lautet wie folgt:"
+
+msgid "You have received a partially-paid order from %s. Their order is as follows:"
+msgstr "Sie haben eine teilweise bezahlte Bestellung von %s erhalten. Die Bestellung lautet wie folgt:"
+
+msgid "Your order has been received and is now being processed. Your order details are shown below for your reference:"
+msgstr "Ihr Bestellung ist eingegangen und wird jetzt bearbeitet. Ihre Bestelldetails werden unten zu Ihrer Information angezeigt."
+
+msgid "To pay the remaining balance, please visit this link: %s"
+msgstr "Um den Restbetrag zu bezahlen, besuchen Sie bitte diesen Link: %s"
+
+msgid "pay"
+msgstr "bezahlen"
+
+msgid "Kindly be reminded that your order's second payment is still pending payment"
+msgstr "Wir möchten Sie freundlich daran erinnern, dass die zweite Zahlung für Ihre Bestellung noch aussteht."
+
+msgid "Partial Payments Summary"
+msgstr "Übersicht über Teilzahlungen"
+
+msgid "Payment"
+msgstr "Zahlung"
+
+msgid "Payment ID"
+msgstr "Zahlungs-ID"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Amount"
+msgstr "Betrag"
+
+msgid "Below is a summary of original order"
+msgstr "Unten ist eine Übersicht über den Originalauftrag"
+
+msgid "Product"
+msgstr "Produkt"
+
+msgid "Total"
+msgstr "Gesamt"
+
+msgid "Partial payments summary"
+msgstr "Übersicht über Teilzahlungen"
+
+msgid "Has Deposit"
+msgstr "Hat eine Anzahlung"
+
+msgid "Mark partially paid"
+msgstr "Als teilweise bezahlt markieren"
+
+msgid "Order status changed by bulk edit:"
+msgstr "Bestellstatus durch Massenbearbeitung geändert:"
+
+msgid "No payment schedule found."
+msgstr "Kein Zahlungsplan gefunden."
+
+msgid "Payment method"
+msgstr "Zahlungsmethode"
+
+msgid "Actions"
+msgstr "Maßnahmen"
+
+msgid "Partial Payment Invoice"
+msgstr "Teilzahlungsrechnung"
+
+msgid "PDF Invoice"
+msgstr "Rechnung als PDF"
+
+msgid "Balance Due"
+msgstr "Restschuld"
+
+msgid "Order number: %s"
+msgstr "Bestellnummer: %s"
+
+msgid "Order date: %s"
+msgstr "Bestelldatum: %s"

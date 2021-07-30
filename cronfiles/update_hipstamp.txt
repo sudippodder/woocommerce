@@ -1,0 +1,6 @@
+Product Deails : 1 (455055)(33202121)curl -X PUT -d quantity=1 https://www.hipstamp.com/api/listings/33202121/?api_key=pr_ba0e3eddf53e363fba637df4eb4f8&limit---
+Product Deails : 1 (455421)(33211525)curl -X PUT -d quantity=1 https://www.hipstamp.com/api/listings/33211525/?api_key=pr_ba0e3eddf53e363fba637df4eb4f8&limit---
+Product Deails : 1 (455083)(33201476)curl -X PUT -d quantity=1 https://www.hipstamp.com/api/listings/33201476/?api_key=pr_ba0e3eddf53e363fba637df4eb4f8&limit---
+Product Deails : 1 (455055)(33202121)curl -X PUT -d quantity=1 https://www.hipstamp.com/api/listings/33202121/?api_key=pr_ba0e3eddf53e363fba637df4eb4f8&limit---
+Product Deails : 1 (455083)(33201476)curl -X PUT -d quantity=1 https://www.hipstamp.com/api/listings/33201476/?api_key=pr_ba0e3eddf53e363fba637df4eb4f8&limit---
+Product Deails : 1 (455421)(33211525)curl -X PUT -d quantity=1 https://www.hipstamp.com/api/listings/33211525/?api_key=pr_ba0e3eddf53e363fba637df4eb4f8&limit---

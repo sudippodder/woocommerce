@@ -1,0 +1,29 @@
+2021-05-24T10:32:01+00:00 CRITICAL syntax error, unexpected 'status' (T_STRING) in /var/www/html/woocommerce/wp-content/plugins/woocommerce-deposits/includes/class-wc-deposits-orders.php on line 436
+
+2021-05-24T19:54:25+00:00 CRITICAL Uncaught Error: Call to a member function get_currency() on bool in /var/www/html/woocommerce/wp-content/plugins/woocommerce-deposits/includes/admin/views/edit-order-partial-payments.php:59
+Stack trace:
+#0 /var/www/html/woocommerce/wp-content/plugins/woocommerce-deposits/includes/admin/class-wc-deposits-admin-order.php(921): include()
+#1 /var/www/html/woocommerce/wp-admin/includes/template.php(1389): WC_Deposits_Admin_Order->partial_payments_summary()
+#2 /var/www/html/woocommerce/wp-admin/edit-form-advanced.php(688): do_meta_boxes()
+#3 /var/www/html/woocommerce/wp-admin/post.php(206): require('/var/www/html/w...')
+#4 {main}
+  thrown in /var/www/html/woocommerce/wp-content/plugins/woocommerce-deposits/includes/admin/views/edit-order-partial-payments.php on line 59
+
+2021-05-24T19:54:42+00:00 CRITICAL Uncaught Error: Call to a member function get_currency() on bool in /var/www/html/woocommerce/wp-content/plugins/woocommerce-deposits/includes/admin/views/edit-order-partial-payments.php:59
+Stack trace:
+#0 /var/www/html/woocommerce/wp-content/plugins/woocommerce-deposits/includes/admin/class-wc-deposits-admin-order.php(921): include()
+#1 /var/www/html/woocommerce/wp-admin/includes/template.php(1389): WC_Deposits_Admin_Order->partial_payments_summary()
+#2 /var/www/html/woocommerce/wp-admin/edit-form-advanced.php(688): do_meta_boxes()
+#3 /var/www/html/woocommerce/wp-admin/post.php(206): require('/var/www/html/w...')
+#4 {main}
+  thrown in /var/www/html/woocommerce/wp-content/plugins/woocommerce-deposits/includes/admin/views/edit-order-partial-payments.php on line 59
+
+2021-05-24T20:06:08+00:00 CRITICAL Uncaught Error: Call to a member function get_currency() on bool in /var/www/html/woocommerce/wp-content/plugins/woocommerce-deposits/includes/admin/views/edit-order-partial-payments.php:59
+Stack trace:
+#0 /var/www/html/woocommerce/wp-content/plugins/woocommerce-deposits/includes/admin/class-wc-deposits-admin-order.php(921): include()
+#1 /var/www/html/woocommerce/wp-admin/includes/template.php(1389): WC_Deposits_Admin_Order->partial_payments_summary()
+#2 /var/www/html/woocommerce/wp-admin/edit-form-advanced.php(688): do_meta_boxes()
+#3 /var/www/html/woocommerce/wp-admin/post.php(206): require('/var/www/html/w...')
+#4 {main}
+  thrown in /var/www/html/woocommerce/wp-content/plugins/woocommerce-deposits/includes/admin/views/edit-order-partial-payments.php on line 59
+
